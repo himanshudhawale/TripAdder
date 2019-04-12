@@ -1,0 +1,10 @@
+<resources>
+    <string name="appname">FinalHackathon</string>
+    <string name="action_settings">Settings</string>
+    <string name="signOut">Sign Out</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_search_and_suggest">Map</string>
+    <string name="title_activity_show_markers">Map</string>
+    <string name="x">Sign in with your google account for more options</string>
+    <string name="y">Welcome to TripAdder</string>
+</resources>
