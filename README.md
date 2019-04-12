@@ -1,8 +1,8 @@
 # TripAdder
 
-This application was a part of my self-interest. The logo in this application was made using Adobe Photoshop. 
+This application was made purely out of interest. The logo in this application was made using Adobe Photoshop. 
 
-- Splash Activity extends AwesomeSplash Activity. 
+- Splash Activity made in this application extends AwesomeSplash. 
 
 - GoogleSignInAccount button is used for Sign in to any Google account making it easier for people to verify using Google Authentication. 
 
